@@ -1,2 +1,2 @@
-# git_learn
-I try  to keep materials relevant for learning git
+# git_learnI
+this repository keeps materials relevant for learning git
